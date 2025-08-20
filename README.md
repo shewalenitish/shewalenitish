@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpwa25sZnI4OG9sc2ZiYnJsbTVxNHg4aDVuNng1c3Nqb3Nra2d0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Duck coding" />
+ 
 
   <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xrZWNnMzJ0ODJmaHg4dDFkNjFua29ycjR2bnkzdTJ5NWVvcW43dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="PC" />
 </div>
