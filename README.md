@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" width="90" height="30" alt="Portfolio" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=shrrutii29&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=shewalenitish&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views" height="30" />
 </div>
 
 <h1 align="center">Hey there 👋</h1>
