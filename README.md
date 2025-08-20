@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" width="70" height="30" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:shrutiinavale@gmail.com">
+  <a href="mailto:shewalenitish82@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" width="70" height="30" alt="Email" />
   </a>
   
