@@ -49,5 +49,5 @@ I believe in exploring new ideas, tackling problems with creativity, and evolvin
 <h3>🛠 Badges:</h3>
 <div>
   <img src="asset/Contributor's badge.jpg" alt="Postman Student Expert" width="120"/>
-  <img src="asset/GSSoc-Contributor-badge.jpg" alt="GSSOC Contributor" width="120"/>
+  <img src="asset/Postman - Postman API Fundamentals Student Expert - 2025-08-19" alt="GSSOC Contributor" width="120"/>
 </div>
