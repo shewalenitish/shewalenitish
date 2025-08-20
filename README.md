@@ -48,6 +48,6 @@ I believe in exploring new ideas, tackling problems with creativity, and evolvin
 
 <h3>🛠 Badges:</h3>
 <div>
-  <img src="assets/Postman - Contributor's badge.jpg" alt="Postman Student Expert" width="120"/>
-  <img src="assets/GSSoc-Contributor-badge.jpg" alt="GSSOC Contributor" width="120"/>
+  <img src="asset/Postman - Contributor's badge.jpg" alt="Postman Student Expert" width="120"/>
+  <img src="asset/GSSoc-Contributor-badge.jpg" alt="GSSOC Contributor" width="120"/>
 </div>
