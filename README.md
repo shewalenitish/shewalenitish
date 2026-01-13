@@ -28,6 +28,7 @@ I believe in exploring new ideas, tackling problems with creativity, and evolvin
 <hr>
 <h3 align="left">🛠 Language and tools : </h3>
 <div align="left">
+  <img src="https://img.shields.io/badge/Vue.js-333?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-333?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-333?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
